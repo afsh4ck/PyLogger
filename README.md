@@ -1,5 +1,15 @@
 # PyLogger - Simple Python Keylogger
 
+```
+    ____          __                                   
+   / __ \ __  __ / /   ____   ____ _ ____ _ ___   _____
+  / /_/ // / / // /   / __ \ / __ `// __ `// _ \ / ___/
+ / ____// /_/ // /___/ /_/ // /_/ // /_/ //  __// /    
+/_/     \__, //_____/\____/ \__, / \__, / \___//_/     
+       /____/              /____/ /____/               
+
+```
+
 **PyLogger** es un keylogger ligero y discreto desarrollado en Python utilizando la librería `pynput`. Captura las pulsaciones de teclas en tiempo real y las registra en un archivo de forma continua, imitando un texto escrito naturalmente. Ideal para fines educativos, pruebas de seguridad o monitoreo en entornos controlados.
 
 ---
