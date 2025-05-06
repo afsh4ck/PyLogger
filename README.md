@@ -23,12 +23,7 @@
 - 📁 Salida configurable en archivo local.
 
 
-## 📦 Requisitos
-
-- Python 3.x
-- Librería `pynput`
-
-Instalación:
+## 📦 Instalación
 
 ```bash
 git clone https://github.com/afsh4ck/PyLogger.git
@@ -38,7 +33,6 @@ python3 pylogger.py
 ```
 
 ## 🚀 Uso
-Ejecuta el script principal:
 
 ```bash
 # Ejecución normal (terminal abierta)
