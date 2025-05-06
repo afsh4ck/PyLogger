@@ -47,6 +47,15 @@ python3 pylogger.py
 # Ejecución en modo oculto (como proceso)
 nohup python3 pylogger.py >/dev/null 2>&1 &
 ```
+- `nohup` evita que se cierre si cierras la terminal.
+- `>/dev/null 2>&1` oculta toda salida (stdout y stderr).
+- `&` lo ejecuta en segundo plano.
+
+🔍 Verifica que está corriendo:
+
+```bash
+ps aux | grep pylogger.py
+```
 
 El archivo `keylog.txt` se generará en el mismo directorio, con las pulsaciones registradas en forma de texto plano continuo.
 
