@@ -36,8 +36,8 @@ python3 pylogger.py
 nohup python3 pylogger.py >/dev/null 2>&1 &
 ```
 
-El archivo keylog.txt se generará en el mismo directorio, con las pulsaciones registradas en forma de texto plano continuo.
+El archivo `keylog.txt` se generará en el mismo directorio, con las pulsaciones registradas en forma de texto plano continuo.
 
-⚠️ Aviso Legal
+## ⚠️ Aviso Legal
 Este software se proporciona únicamente con fines educativos y de auditoría de seguridad en sistemas propios o con consentimiento explícito. No está permitido su uso malintencionado o ilegal. El autor no se hace responsable del uso indebido del mismo.
 
