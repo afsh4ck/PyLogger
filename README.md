@@ -50,3 +50,14 @@ El archivo `keylog.txt` se generará en el mismo directorio, con las pulsaciones
 ## ⚠️ Aviso Legal
 Este software se proporciona únicamente con fines educativos y de auditoría de seguridad en sistemas propios o con consentimiento explícito. No está permitido su uso malintencionado o ilegal. El autor no se hace responsable del uso indebido del mismo.
 
+## 👨🏻‍💻 Créditos
+- Autor:       afsh4ck 
+- Instagram:   <a href="https://www.instagram.com/afsh4ck">afsh4ck</a>
+- Youtube:     <a href="https://youtube.com/@afsh4ck">afsh4ck</a>
+
+## ❤️ Soporte
+
+<a href="https://www.buymeacoffee.com/afsh4ck" rel="nofollow"><img width="250" align="left">
+![buy-me-a-coffe](https://github.com/user-attachments/assets/8c8f9e81-334e-469e-b25e-29888cfc9fcc)
+</a>
+
