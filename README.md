@@ -28,10 +28,13 @@
 - Python 3.x
 - Librería `pynput`
 
-Instalación de dependencias:
+Instalación:
 
 ```bash
+git clone https://github.com/afsh4ck/PyLogger.git
+cd PyLogger
 pip3 install -r requirements.txt
+python3 pylogger.py
 ```
 
 ## 🚀 Uso
