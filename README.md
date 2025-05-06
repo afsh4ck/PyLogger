@@ -22,7 +22,6 @@
 - 🛠️ Basado en `pynput`, compatible con Windows, Linux y macOS.
 - 📁 Salida configurable en archivo local.
 
----
 
 ## 📦 Requisitos
 
