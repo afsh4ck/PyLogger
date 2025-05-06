@@ -41,7 +41,7 @@ python3 pylogger.py
 Ejecuta el script principal:
 
 ```bash
-# Ejecución normal
+# Ejecución normal (terminal abierta)
 python3 pylogger.py
 
 # Ejecución en modo oculto (como proceso)
